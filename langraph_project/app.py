@@ -105,4 +105,4 @@ if st.session_state.state.task_list:
 
     st.subheader("📊 Daily Summary")
     st.markdown(st.session_state.state.summary or "No summary yet.")
-```
+
