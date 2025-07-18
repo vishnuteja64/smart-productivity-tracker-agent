@@ -4,4 +4,3 @@ langchain-groq
 langchain-community
 python-dotenv>=1.0.1
 streamlit
-git-filter-repo
